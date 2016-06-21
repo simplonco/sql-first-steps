@@ -1,22 +1,18 @@
-# Exercices SQL
+# SQL Exercises
 
 <http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all>
 
-Réalisez les requêtes suivantes :
+Perform following queries:
 
-1) La liste des `ContactName` de la table `Customer`
+1) The list of `ContactName` of table `Customer`.
 
-2) La liste des `ProductName` qui ont la `CaterogyID` `1` dans
-la table `Product`
+2) The list of `ProductName` that have `1` as `CaterogyID` of table `Product`.
 
-3) Dans la table `Product`, au lieu d'avoir les `ID` (pour
-`categoryID` et `SupplierID`), qu'on voie les noms des catégories et des
-fournisseurs, tout celà en une seule requête (edited)
+3) In the `Product` table, instead of the `ID` (for `CategoryID` and `SupplierID`),
+display the names of categories and suppliers, all that in a single request.
 
-4) Créez une table utilisateur semblable à celle qu enous
-pouvons trouver au sein d'un réseau social. Réflechissez aux champs
-nécessaires et à la structure.
+4) Create a user table similar to what we can find in a social network.
+Think about the fields required and the structure.
 
-5) Quels champs seront répetitifs ? Est-il possible d'en
-générer des tables en `1,n`. Et/Ou que suis-je en train de vous demander
-de faire ?
+5) Which fields will be repeated? Is it possible to generate tables as `1,n`.
+And / Or what am I asking you to do?
