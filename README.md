@@ -1,5 +1,7 @@
 # SQL Exercises
 
+![Matrix Reloaded](matrix.png)
+
 <http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all>
 
 Perform following queries:
