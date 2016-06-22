@@ -1,4 +1,4 @@
-# Exercices SQL
+# SQL - Premiers pas
 
 ![Matrix Reloaded](matrix.png)
 
